@@ -1,16 +1,19 @@
-### Hi there 👋
+          
+### Olá, Amigo, Bem-Vindo 👋
 
-<!--
-**SantLuiz/SantLuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Sou estudante de Ciência da Computação.
+- 👯 Aprendendo Python e Java, mas sempre buscando aprender mais
+- 📫 Me envie um email em luizsaraujo1@gmail.com
+- 😄 Pronouns: Ele/Dele
+- ⚡ Fun fact: Fã de Star Trek e de outras nerdices 
 -->
+
+> _"Em Algum Lugar, algo incrível está esperando para ser descoberto"_
+> -  _Carl Sagan_
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantLuiz&show_icons=true&theme=transparent&locale=pt-br&border_radius=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantLuiz&show_icons=true&theme=transparent&locale=pt-br&border_radius=50)
+
+
+
